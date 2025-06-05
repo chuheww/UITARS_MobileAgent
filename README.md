@@ -5,7 +5,14 @@
 * 🔥[2025.6.5] 发布了字节2025年初开源的最新SOTA模型-基于UITARS的Mobile Agent。
 
 ## 📺演示
-马上上传
+**美团点汉堡套餐**
+https://github.com/user-attachments/assets/7f8e3e4f-e532-400b-8fb5-cb9f77db7a5d
+
+**高德地图打网约车**
+
+
+**抖音搜索视频分享给好友**
+https://github.com/user-attachments/assets/a4ecd63e-f412-4121-bf4e-9bed8f291e8f
 
 ## 📋介绍
 
