@@ -9,10 +9,12 @@
 https://github.com/user-attachments/assets/7f8e3e4f-e532-400b-8fb5-cb9f77db7a5d
 
 **高德地图打网约车**
-
+https://github.com/user-attachments/assets/88ee89e7-638d-4cf4-a907-3f5d0f2f8ca1
 
 **抖音搜索视频分享给好友**
 https://github.com/user-attachments/assets/a4ecd63e-f412-4121-bf4e-9bed8f291e8f
+
+https://github.com/X-PLUG/MobileAgent/assets/127390760/d907795d-b5b9-48bf-b1db-70cf3f45d155
 
 ## 📋介绍
 
