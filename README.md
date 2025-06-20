@@ -1,6 +1,9 @@
 # UITARS_MobileAgent
 无需付费的控制手机并完成你指令的Agent！让Agent帮你操控手机点外卖，打网约车，给微信或者QQ等好友发消息.......解放你的双手！并且无需调用GPT-4o等付费api！
 
+## 📢计划
+* 为UITARS搭建memory库，实现越用越快的Agent！
+
 ## 📢新闻
 * 🔥[2025.6.5] 发布了基于字节的最新SOTA模型(UITARS)的Mobile Agent。
 
